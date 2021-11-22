@@ -1,6 +1,6 @@
 import React from "react";
 import { Col, Container, Image, Button, Card } from "react-bootstrap";
-import MainSlider from "./../Includes/MainSlider";
+import MainSlider from "../Includes/MenuSlider";
 import { Row } from "react-bootstrap";
 import { Link } from "react-router-dom";
 import ServiceImage from "../../Images/Gallery/image-1.png";
